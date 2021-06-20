@@ -1,0 +1,29 @@
+.bundle-menu {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.go-back {
+    margin-top: 20px;
+}
+.load-bundles {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title-change-button {
+    margin-left: 20px;
+}
+
+.BundleList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Bundle {
+    padding:10px;
+}

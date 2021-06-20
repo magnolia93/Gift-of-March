@@ -1,0 +1,76 @@
+.title {
+    background: skyblue;
+    color: green;
+    font-size: 3rem;
+    font-weight: 800;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    background: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+button {
+    background-color:dodgerblue;
+    color:white;
+    font-size: 15px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.bundle-state {
+    display: flex;
+}
+
+.tree-input {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tree-button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.blossom-button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.make-button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bundle-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.TreesContainer {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.Tree {
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 1000px;
+    align-content: flex-start;
+    column-gap: 1em;
+}
